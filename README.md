@@ -25,4 +25,11 @@ After setting up your IDE, proceed to install the project's dependencies with th
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Additional  references: 
+
+* [AnAge: The Animal Ageing and Longevity Database ](https://senescence.info/)
+* [ADW: Home ](https://animaldiversity.org)  
+* [Home - Taxonomy - NCBI](https://nih.gov)
 
