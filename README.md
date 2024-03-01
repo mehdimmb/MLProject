@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Additional  references: 
 
-* [AnAge: The Animal Ageing and Longevity Database ](https://senescence.info/)
+* [AnAge: The Animal Ageing and Longevity Database ](https://genomics.senescence.info/species/index.html)
 * [ADW: Home ](https://animaldiversity.org)  
-* [Home - Taxonomy - NCBI](https://nih.gov)
+* [Home - Taxonomy - NCBI](https://www.ncbi.nlm.nih.gov/taxonomy)
 
